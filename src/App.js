@@ -42,7 +42,8 @@ function App() {
               </p>
               <Button variant="outline-primary">Call to action</Button>
 
-              <img src="\imagens\img5.png" className="img-fluid rounded" alt="..." />
+              <img src="\imagens\img4.png" className="img-fluid rounded" alt="..." />
+                    <img src="\imagens\img4.png" />
             </Col>
             <Col sm={4}>
               {/* Conteúdo da coluna lateral */}
@@ -99,7 +100,7 @@ function App() {
               </Card.Body>
             </Card>
           </Col>
-        </Row>cd part1
+        </Row>
       </main>
 
       <footer className="py-5 my-5 bg-dark">

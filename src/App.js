@@ -9,7 +9,7 @@ function App() {
       <header>
         <Navbar bg="dark" expand="lg" variant="dark">
           <Container fluid>
-            <Navbar.Brand href="#">Navbar</Navbar.Brand>
+            <Navbar.Brand href="#"></Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarSupportedContent" />
             <Navbar.Collapse id="navbarSupportedContent">
               <Nav className="me-auto mb-2 mb-lg-0">
@@ -60,7 +60,7 @@ function App() {
           </Col>
         </Row>
 
-        <Row id='cards'>
+        <Row id="cards">
           <Col>
             <Card style={{ width: '18rem' }}>
               <Card.Img variant="top" src="\imagens\img1.png" />

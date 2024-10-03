@@ -14,7 +14,7 @@ function App() {
             <Navbar.Collapse id="navbarSupportedContent">
               <Nav className="me-auto mb-2 mb-lg-0">
                 <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="#cars">Cards</Nav.Link>
+                <Nav.Link href="#cards">Cards</Nav.Link>
                 {/* <NavDropdown title="Dropdown" id="navbarScrollingDropdown">
                   <NavDropdown.Item href="#">Action</NavDropdown.Item>
                   <NavDropdown.Item href="#">Another action</NavDropdown.Item>

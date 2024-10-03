@@ -42,7 +42,7 @@ function App() {
               </p>
               <Button variant="outline-primary">Call to action</Button>
 
-              <img src="\imagens\img4.png" className="img-fluid rounded" alt="..." />
+              <img src="\imagens\img5.png" className="img-fluid rounded" alt="..." />
             </Col>
             <Col sm={4}>
               {/* Conteúdo da coluna lateral */}
